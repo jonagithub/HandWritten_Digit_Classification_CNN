@@ -10,7 +10,7 @@
 # Handwritten Digit Classification from MNIST Dataset Task Updated
 - Implemented a predictive system to give an own test image on Handwritten Digit Classification task
 - In the initial version Handwritten_Digit_Classification.ipynb, I formatted an input image, converting it from RGB to grayscale, resizing it to 28x28 pixels, scaling it to the pixel values and feeding the formatted image as input model to observe the digit prediction 
-- In an updated version of Handwritten_Digit_Classification_Updated.ipynb, I further refined the project by creating a dedicated function that processes and predicts images.
+- In an updated version of Handwritten_Digit_Classification_Predictive_System.ipynb, I further refined the project by creating a dedicated function that processes and predicts images.
 - The function takes an input image path and pre-trained model as arguments and is used to make predictions for input_data from the ‘images’ folder in the main directory
 - The model used for predictions was trained on the training data, and this updated version allowed for predictions on both the test data and user-given images from the ‘images’ folder
 - The training data accuracy came to be 99.46% and testing data accuracy came to be 97.68%       
